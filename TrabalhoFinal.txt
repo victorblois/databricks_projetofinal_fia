@@ -1,0 +1,21 @@
+-----------------------------------------
+Data Mart de sellers
+-----------------------------------------
+tempo médio entrega
+total orders vida
+total gtv vida
+Review com nota baixo de 3 
+Categoria que mais vende receita
+Se vende mais de uma categoria
+Quantidade de produtos distintos que vende
+Share Pagamento Boleto/CC
+
+
+-----------------------------------------
+Análises
+-----------------------------------------
+Churn pegando 2 MÊS PREVER QUEM VAI VIRAR CHURN
+PEGAR QUEM Q VAI ATRASAR O PEDIDO
+
+
+
