@@ -1,0 +1,8 @@
+
+model/modelo_xgbc_schurnvm_gridsearch.pkl
+*.pkl
+notebook/.ipynb_checkpoints/db_ml_analise_semester_201801_churn-checkpoint.ipynb
+notebook/.ipynb_checkpoints/py_ml_analise_semester_3m_churn-checkpoint.ipynb
+notebook/.ipynb_checkpoints/py_ml_analise_semester_q1_churn-checkpoint.ipynb
+notebook/.ipynb_checkpoints/py_ml_analise_semester_vm_churn-checkpoint.ipynb
+notebook/.ipynb_checkpoints/py_ml_order_items_ontime_q2_2018-checkpoint.ipynb
